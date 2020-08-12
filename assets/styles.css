@@ -24,7 +24,7 @@ body {
     padding: 20px 30px;
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.4);
-    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2)
+    box-shadow: 0 5px 5px 5px rgba(28, 160, 98, 0.466)
 }
 
 .quote-text {
@@ -36,7 +36,7 @@ body {
 }
 
 .fa-quote-left {
-    font-size: 4rem;
+    font-size: 4.5rem;
 }
 
 .quote-author {
